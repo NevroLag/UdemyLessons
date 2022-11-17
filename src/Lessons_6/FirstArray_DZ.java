@@ -1,6 +1,6 @@
 package Lessons_6;
 
-public class FirstArray {
+public class FirstArray_DZ {
     public static void main(String[] args) {
         int[] first = new int[900];
         for (int i = 0; i < first.length; i++) {

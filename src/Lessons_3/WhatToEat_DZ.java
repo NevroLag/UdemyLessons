@@ -1,6 +1,6 @@
 package Lessons_3;
 
-public class WhatToEat {
+public class WhatToEat_DZ {
     public static void main(String[] args) {
         int countOfMoney = 200;
         if (countOfMoney >= 500) {
