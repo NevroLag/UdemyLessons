@@ -1,6 +1,6 @@
 package Lessons_7_OOP;
 
-public class Main {
+public class Main_DZ {
     public static void main(String[] args) {
         String month = "Январь";
 

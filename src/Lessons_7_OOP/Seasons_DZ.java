@@ -1,6 +1,6 @@
 package Lessons_7_OOP;
 
-public class Seasons {
+public class Seasons_DZ {
     public static void main(String[] args) {
         String month = "Сентябрь";
 
