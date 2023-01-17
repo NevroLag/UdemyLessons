@@ -1,0 +1,10 @@
+[
+    {
+        "task": "2 Продать",
+        "completed": true
+    },
+    {
+        "task": "4 убрать",
+        "completed": false
+    }
+]
