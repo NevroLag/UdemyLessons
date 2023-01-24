@@ -1,10 +1,14 @@
 [
     {
-        "task": "2 Продать",
+        "task": "2 Прода�\u201aь",
         "completed": true
     },
     {
-        "task": "4 убрать",
+        "task": "4 убра�\u201aь",
+        "completed": false
+    },
+    {
+        "task": "234231",
         "completed": false
     }
 ]

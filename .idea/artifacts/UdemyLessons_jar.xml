@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UdemyLessons:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UdemyLessons_jar</output-path>
+    <root id="archive" name="UdemyLessons.jar">
+      <element id="module-output" name="UdemyLessons" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20140107.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
